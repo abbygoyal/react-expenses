@@ -1,5 +1,5 @@
 ## React-Expense-Tracker
-self introduction portfolio
+React Expenses Tracker using onState
 
 ## Live Project Link
 [React-Expense-Tracker](https://tracker-expenses-react.netlify.app/)
